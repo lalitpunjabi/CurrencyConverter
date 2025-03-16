@@ -43,5 +43,5 @@ A simple and user-friendly currency converter built with React.js. This applicat
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
+--------------------------------------------------------------------------------------------
 
